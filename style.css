@@ -1,0 +1,15 @@
+input
+{
+    margin:10px;
+}
+#b1
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#b2
+{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
